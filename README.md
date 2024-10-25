@@ -1,1 +1,1 @@
-# ESP32-MQTT_TCP_7Segment-Cookbook
+# ESP32-MQTT-Cookbook
