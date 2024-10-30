@@ -12,7 +12,8 @@
 
 1.เลือกตัวอย่างโปรเจค โดยการคลิกเลือก ESP-ISF
 
-![image](https://github.com/user-attachments/assets/84748499-00fe-451a-b297-3a4e7b83f237)
+![image](https://github.com/user-attachments/assets/3b2166b0-ffe2-4e03-af78-66003eb544e4)
+
 
 
 ค้นหาเทมเพลต พิมพ์ softAP
