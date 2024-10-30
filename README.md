@@ -10,23 +10,23 @@
 
 #### 1.สร้าง Espressif IDF project ใหม่
 
-2.เลือกตัวอย่างโปรเจค โดยการคลิกเลือก ESP-ISF
+1.เลือกตัวอย่างโปรเจค โดยการคลิกเลือก ESP-ISF
 
 ![image](https://github.com/user-attachments/assets/84748499-00fe-451a-b297-3a4e7b83f237)
 
 
 ค้นหาเทมเพลต พิมพ์ softAP
 
-3.เลือก softAP
+2.เลือก softAP
 
-4.กด Yes เมื่อมีการแจ้งเตือนแสดงขึ้นมา
+3.กด Yes เมื่อมีการแจ้งเตือนแสดงขึ้นมา
 
 
 
 ![image](https://github.com/user-attachments/assets/e8b9a767-1155-4184-912f-7bca1b104810)
 
 
-5.ยืนยันว่าเลือกรุ่นของ idf เป็น V5.3 ขึ้นไป
+4.ยืนยันว่าเลือกรุ่นของ idf เป็น V5.3 ขึ้นไป
 
 
 
