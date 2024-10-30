@@ -49,6 +49,10 @@
 
 2. ใช้ Laptop หรือ Smartphone ค้นหา Accesspoint
 
+
+![462643697_1269717570704033_4292127068604543875_n](https://github.com/user-attachments/assets/4e3c42f9-a274-40d4-b1c5-357f965bbd64)
+
+
 เจอ "SSID" ในรายการ Wifi ที่เราสร้างขึ้น จะปรากฏชื่อ ssid และ password ใน esp terminal และต้องมีชื่อเดียวกันในรายการ wifi ที่พร้อมรับการเชื่อมต่อ
 
 ให้เชื่อม wifi โดยเลือก ssid และใส่ password ที่ถูกต้อง ถ้าเชื่อมต่อได้สำเร็จ จะมีข้อความปรากฏ จาก source code บรรทัดใด smartphone หรือ laptop จะได้ ipaddress และอาจจะมีคำเตือนว่าไม่สามารถเชื่อมต่ออินเทอร์เน็ตได้ เนื่องจาก ESP ที่ใช้ไม่ได้ต่อกับ internet 
